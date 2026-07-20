@@ -1,0 +1,8 @@
+.wrangler/
+node_modules/
+.dev.vars
+.env
+.env.*
+.DS_Store
+*.log
+movies-seed.json
